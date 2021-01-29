@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Storytime", "Storytime\Storytime.csproj", "{360BC999-4B25-4800-9263-FF8A06CD799C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{360BC999-4B25-4800-9263-FF8A06CD799C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{360BC999-4B25-4800-9263-FF8A06CD799C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{360BC999-4B25-4800-9263-FF8A06CD799C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{360BC999-4B25-4800-9263-FF8A06CD799C}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00C75CEE-5745-417B-A0AE-ACBE00C00931}
+	EndGlobalSection
+EndGlobal
